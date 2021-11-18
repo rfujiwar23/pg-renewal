@@ -1,0 +1,16 @@
+.wrapper2 .language-select, .wrapper3 .language-select, .wrapper4 .language-select {
+    text-align: right;
+    margin-right: 20px;
+    padding: 20px 0;
+  }
+
+  .wrapper2 .language-select a, .wrapper3 .language-select a, .wrapper4 .language-select a {
+    color: rgba(50,50,50);
+    text-decoration:  underline;
+    padding: 3px 5px;
+  }
+
+  .wrapper2 .language-select a:hover, .wrapper2 .language-select a:hover, .wrapper4 .language-select a:hover {
+    background: rgba(50,50,50,1);
+    color:  #fff;
+  }
